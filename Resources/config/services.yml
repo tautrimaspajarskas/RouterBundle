@@ -3,4 +3,4 @@ parameters:
 
 services:
     ongr_router.seo_url_mapper:
-        class: %ongr_router.seo_url_mapper.class%
+        class: '%ongr_router.seo_url_mapper.class%'
